@@ -1,0 +1,14 @@
+{
+  "name": "node_esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": " nodemon --experimental-modules index.mjs"
+  },
+  "author": "Imran rafique",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
